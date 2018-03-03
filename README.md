@@ -42,8 +42,11 @@
 如果没有对应id的车型，并跳转到列表页。
 
 ### 部分切图
+#### 增加列表信息
 ![](https://github.com/han6054/vue_pro/raw/master/images/add.gif)
+#### 首页
 ![](https://github.com/han6054/vue_pro/raw/master/images/home.gif)
+#### 列表页
 ![](https://github.com/han6054/vue_pro/raw/master/images/list.gif)
 
 
