@@ -41,13 +41,6 @@
 在列表页切换详情页的过程中，利用自定义路由方式，为了防止切换id的时候页面不刷新，在watch方法检测数据变化，重新执行api方法。从而刷新页面
 如果没有对应id的车型，并跳转到列表页。
 
-### 部分切图
-#### 增加列表信息
-![](https://github.com/han6054/vue_pro/raw/master/images/add.gif)
-#### 首页
-![](https://github.com/han6054/vue_pro/raw/master/images/home.gif)
-#### 列表页
-![](https://github.com/han6054/vue_pro/raw/master/images/list.gif)
 
 
 
